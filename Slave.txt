@@ -1,1 +1,2 @@
 Slave
+This line is added from master side to the slave file after slave commit is made in local repo. Next task is to commit this and push to remote
