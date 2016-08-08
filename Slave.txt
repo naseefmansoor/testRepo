@@ -1,3 +1,7 @@
 Slave
+
 Adding this line to slave after master commit and push to remote
 Addind a line from slave for commit 2 from slave
+
+This line is added from master side to the slave file after slave commit is made in local repo. Next task is to commit this and push to remote
+
