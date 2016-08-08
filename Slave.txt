@@ -1,2 +1,3 @@
 Slave
 Adding this line to slave after master commit and push to remote
+Addind a line from slave for commit 2 from slave
